@@ -9,7 +9,7 @@ A simple, realistic wine glass containing red wine. This document describes the 
 
 ## Preview
 
-![Wine glass 3D model — front, right, top, and isometric views](assets/wine_glass_preview.png)
+![wine-glass-preview.avif](https://user49684.na.imgto.link/public/20261031/ca1133e4d69d7543f5548e2f-wine-glass-preview.avif)
 
 ## Model specifications
 
