@@ -49,4 +49,4 @@ Use the preview as the visual source of truth when recreating or editing the ass
 ## Included files
 
 - `SKILL.md` — this model reference.
-- `assets/wine_glass_preview.png` — four-view preview image.
+
